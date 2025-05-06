@@ -3,3 +3,5 @@ To Do:
 2. Length options
 3. Progress bar
 4. Online connection with other users
+    a) Discord bot
+    b) Network connection through terminals?
