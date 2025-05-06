@@ -1,0 +1,5 @@
+To Do:
+1. Random text
+2. Length options
+3. Progress bar
+4. Online connection with other users
